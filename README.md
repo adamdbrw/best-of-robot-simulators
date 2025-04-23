@@ -55,7 +55,7 @@ This curated list contains 83 awesome open-source projects with a total of 310K 
 
 _Generic simulators, tools or SDKs made for robotics which are open-source_
 
-<details><summary><b><a href="https://o3de.org/">O3DE for Robotics</a></b> (🥇29 ·  ⭐ 8.2K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">❗️MIT and Apache-2</a></code></summary>
+<details><summary><b><a href="https://o3de.org/">O3DE for Robotics</a></b> (🥇29 ·  ⭐ 8.2K) - Open 3D Engine (O3DE) is dual license under Apache 2.0 and MIT (you pick license that suits you) multi-platform 3D engine that enables developers and content creators. <code><a href="https://www.tldrlegal.com/license/apache-license-2-0-apache-2-0">Apache-2</a></code> and <code><a href="https://www.tldrlegal.com/license/mit-license">MIT</a></code></summary>
 
 - [GitHub](https://github.com/o3de/o3de) (👨‍💻 300 · 🔀 2.3K · 📥 9.4K · 📋 7.7K - 44% open · ⏱️ 16.04.2025):
 
